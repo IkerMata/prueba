@@ -1,6 +1,0 @@
---- Valoracions ---
-Valoració 1 (Biel): 7
-Valoració 2 (Iker): 8
-Valoració 3 (Joan): 5
-Valoració 4 (Antonia): 7
-Valoració 5 (Gerard): 10
